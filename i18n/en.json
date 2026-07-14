@@ -1,0 +1,34 @@
+{
+  "game": {
+    "q": "DEFEAT",
+    "w": "CHARACTER SHARDS",
+    "e": "GOLD",
+    "r": "Get more character shards from chests",
+    "t": "Increases damage dealt to chests and bosses",
+    "y": "Get more gold from chests",
+    "u": "Increases the number of fighters at the start of the round",
+    "i": "BATTLE",
+    "o": "YOUR FIGHTERS",
+    "p": "UPGRADE:",
+    "a": "Link never takes off his cat-eared hood, and no one knows what his eyes look like. They say he grew up among street gangs and learned to disappear before an enemy could even blink. His kunai never miss their target, and Link himself never leaves a trace.",
+    "s": "Rupert was once an ordinary mushroom until a mysterious mutation granted him intelligence and a love for explosives. Friendly at first glance, he collects rare spores and turns them into devastating mushroom bombs. His smile usually means trouble is about to explode.",
+    "d": "Rooster was the leader of the most dangerous biker gang in the wasteland until one day he decided to work alone. His raspy voice is scarier than his shotgun—and that's saying something. He rarely speaks, but he always keeps his word.",
+    "f": "Caleb spent years as the caretaker of an abandoned cemetery where the dead refused to rest. Hiding his face behind a plague doctor mask, he hunts anything that disturbs the peace of the graves. His shovel has uncovered more secrets than graves.",
+    "g": "Byron almost never shows his eyes and only speaks when it truly matters. His magical words can reshape reality, shatter walls, and knock enemies off their feet. The shorter the phrase, the greater the consequences.",
+    "h": "Richie became a pirate captain before she even learned to read maps. After countless naval battles, she decided that a ship's cannon was far too good to leave on deck. Now she carries it everywhere and settles every argument with a single shot.",
+    "j": "A former sheriff lost both his arms in a battle against a criminal syndicate but refused to retire. Replacing them with six mechanical revolver arms, he became a living legend of the Wild West. His verdict is always the same: 'Fire.'",
+    "k": "Before the end of the world, Serena dreamed of becoming a tennis champion. After the apocalypse, she had to learn to hit back grenades instead of tennis balls. The wasteland calls her crazy, but no one laughs when a grenade lands exactly where she aimed.",
+    "l": "The combat robot Bach was assembled from an old jukebox and military parts of unknown origin. He believes every battle deserves a great soundtrack. His favorite genre is exploding vinyl records. BACH-boom!",
+    "z": "Ramses awoke after thousands of years of sleep only to discover that the world had become even stranger than the ancient curses he once knew. Hidden beneath a yellow raincoat, he wanders the ruins collecting forgotten recipes for alchemical potions. Most of them explode.",
+    "x": "CLICKER",
+    "c": "LEVEL",
+    "v": "Survive a wave of enemies",
+    "b": "Destroy the portal generators",
+    "n": "Watch an ad to receive 500 Gold",
+    "m": "Watch an ad to receive 300 random Character Shards"
+  },
+  "potions": {
+    "health": "Health Potion",
+    "mana": "Mana Potion"
+  }
+}
